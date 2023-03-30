@@ -1,0 +1,58 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: 'B612', sans-serif;
+    background-color: #1a1a1a;
+    color: #f0f0f0;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-top: 30px;
+  }
+  
+  h2 {
+    margin-top: 0;
+  }
+  
+  #console {
+    height: 400px;
+    width: 80%;
+    margin: 0 auto;
+    padding: 10px;
+    overflow: scroll;
+    background-color: #333333;
+    border-radius: 10px;
+    margin-top: 30px;
+  }
+  
+  .timestamp {
+    font-size: 12px;
+    color: #999999;
+  }
+  
+  .input {
+    font-size: 16px;
+    color: #f0f0f0;
+    margin-bottom: 10px;
+  }
+  
+  .widget {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 30px;
+    padding: 10px;
+    background-color: #333333;
+    border-radius: 10px;
+  }
+  
+  #serial-data {
+    height: 200px;
+    width: 100%;
+    overflow: scroll;
+    font-size: 16px;
+    color: #f0f0f0;
+    margin-top: 10px;
+  }
+  
